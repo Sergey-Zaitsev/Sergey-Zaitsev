@@ -20,3 +20,5 @@ My name is Sergey and am a Python developer.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Zaitsev)](https://github.com/Sergey-Zaitsev/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Sergey-Zaitsev)
